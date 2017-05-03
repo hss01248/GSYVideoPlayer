@@ -62,7 +62,11 @@ dependencies {
 }
 ```
 
---------------------------------------------------------------------------------
+> my update
+
+* player+详情模式下,将demo中播放动作包装成webplayermanager,几行代码调用,方便集成.
+
+### 
 
 * ### 下方文档以及问题集锦，你想要知道的大部分都在里面。
 
@@ -84,23 +88,23 @@ dependencies {
 ### [--- IJKPlayer编译自定义SO - 入口](http://www.jianshu.com/p/bd289e25d272)　
 ### [--- 简书详解 - 入口](http://www.jianshu.com/p/9fe377dd9750)
 
-　
+
 ## 运行效果
 
 * ### 1、打开一个播放
-<img src="https://github.com/CarGuo/GSYVideoPlayer/blob/master/01.gif" width="240px" height="426px"/>
+  <img src="https://github.com/CarGuo/GSYVideoPlayer/blob/master/01.gif" width="240px" height="426px"/>
 
 * ### 2、列表/详情模式
-<img src="https://github.com/CarGuo/GSYVideoPlayer/blob/master/02.gif" width="240px" height="426px"/>
-<img src="https://github.com/CarGuo/GSYVideoPlayer/blob/master/05.gif" width="240px" height="426px"/>
-<img src="https://github.com/CarGuo/GSYVideoPlayer/blob/master/04.gif" width="240px" height="426px"/>
+  <img src="https://github.com/CarGuo/GSYVideoPlayer/blob/master/02.gif" width="240px" height="426px"/>
+  <img src="https://github.com/CarGuo/GSYVideoPlayer/blob/master/05.gif" width="240px" height="426px"/>
+  <img src="https://github.com/CarGuo/GSYVideoPlayer/blob/master/04.gif" width="240px" height="426px"/>
 
 * ### 3、弹幕
-<img src="https://github.com/CarGuo/GSYVideoPlayer/blob/master/09.gif" width="360px" height="240px"/>
+  <img src="https://github.com/CarGuo/GSYVideoPlayer/blob/master/09.gif" width="360px" height="240px"/>
 
 
 * ### 4、进度条小窗口预览
-<img src="https://github.com/CarGuo/GSYVideoPlayer/blob/master/07.gif" width="426px" height="240px"/>
+  <img src="https://github.com/CarGuo/GSYVideoPlayer/blob/master/07.gif" width="426px" height="240px"/>
 
 
 ## 近期版本
